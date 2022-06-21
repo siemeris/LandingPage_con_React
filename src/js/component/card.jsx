@@ -13,16 +13,6 @@ const Card = (props) => {
     <a href={props.buttonUrl} className="btn btn-primary">{props.buttonLabel}</a>
   </div>
  </div>);
-// return (<div class="card">
-// <div class="card-header">
-//   Featured<img src="https://picsum.photos/20" className="card-img-top" alt="..."></img>
-// </div>
-// <div class="card-body">
-//   <h5 class="card-title">Special title treatment</h5>
-//   <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-//   <a href="#" class="btn btn-primary">Go somewhere</a>
-// </div>
-// </div>)
 };
 
 Card.propTypes = {
