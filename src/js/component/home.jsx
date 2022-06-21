@@ -36,12 +36,9 @@ const Home = () => {
 				
 				<Card title="Card1" description="Nulla facilisi. Integer porta venenatis eros porttitor consectetur. Aliquam erat volutpat. In pretium urna dolor, sed interdum ligula suscipit non." buttonLabel="Find Out More!" />
 				
-				
 				<Card title="Card2" description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout." buttonLabel="Find Out More!" />
 				
-				
 				<Card title="Card3" description="Vivamus quis porttitor massa. Ut in metus eu purus gravida facilisis et in ligula. Proin dapibus, nunc at scelerisque hendrerit." buttonLabel="Find Out More!"/>
-				
 				
 				<Card title="Card4" description="Integer convallis sollicitudin pretium. Donec tincidunt mi sed quam sodales, sit amet pretium massa convallis. Praesent placerat molestie odio eget." buttonLabel="Find Out More!"/>
 				
